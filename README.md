@@ -74,4 +74,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Wiltomar DUARTE :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Wiltomar DUARTE :wave: - [Linkedin](https://www.linkedin.com/in/wiltomar/)
